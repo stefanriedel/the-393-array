@@ -3,3 +3,6 @@
 The housing is to be fitted with SB Acoustics 2.5 inch drivers, but could be adjusted for other drivers:
 http://www.sbacoustics.com/index.php/products/wideband/2-sb65wbac25-4/
 
+Four of these 4-channel connectors of type NL8MPR are used for the 15 channels:
+https://www.neutrik.com/en/product/nl8mpr
+
