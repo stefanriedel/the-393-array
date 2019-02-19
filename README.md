@@ -5,5 +5,6 @@ The housing is designed to fit SB Acoustics 2.5 inch drivers, but could be adjus
 http://www.sbacoustics.com/index.php/products/wideband/2-sb65wbac25-4/
 
 Four of these 4-channel connectors of type NL8MPR are used for the 15 channels:
+
 https://www.neutrik.com/en/product/nl8mpr
 
