@@ -7,4 +7,4 @@ http://www.sbacoustics.com/index.php/products/wideband/2-sb65wbac25-4/
 Four of these 4-channel connectors of type NL8MPR are used for the 15 channels:
 https://www.neutrik.com/en/product/nl8mpr
 
-The control filters based on measurements of the existing prototype at IEM Graz (seen in the 393.JPG) can be found in the folder 393_Filters. To be used with MCFX convolver by Matthias Kronlachner.
+The control filters based on measurements of the existing prototype at IEM Graz (seen in the 393.JPG) can be found in the folder 393_Filters. To be used with the MCFX convolver plug-in by Matthias Kronlachner.
